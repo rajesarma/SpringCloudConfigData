@@ -1,0 +1,24 @@
+---
+spring:
+  profiles: 1_pronoun
+words: I,You,He,She,It
+
+---
+spring:
+  profiles: 2_verb
+words: ran,knew,had,saw,bought
+
+---
+spring:
+  profiles: 3_article
+words: a,the
+
+---
+spring:
+  profiles: 4_adjective
+words: reasonable,leaky,suspicious,ordinary,unlikely
+
+---
+spring:
+  profiles: 5_noun
+words: boat,book,vote,seat,backpack,partition,groundhog 
